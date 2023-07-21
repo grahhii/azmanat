@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/azmanot/static/css/main.e6c13ad2.css",
+    "main.js": "/azmanot/static/js/main.fb255391.js",
+    "static/js/787.28cb0dcd.chunk.js": "/azmanot/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/azmanot/index.html",
+    "main.e6c13ad2.css.map": "/azmanot/static/css/main.e6c13ad2.css.map",
+    "main.fb255391.js.map": "/azmanot/static/js/main.fb255391.js.map",
+    "787.28cb0dcd.chunk.js.map": "/azmanot/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fb255391.js"
+  ]
+}
